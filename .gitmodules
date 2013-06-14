@@ -1,0 +1,3 @@
+[submodule "php53dev/vc9/x86/php-src"]
+	path = php53dev/vc9/x86/php-src
+	url = git@github.com:kobake/php-src.git
